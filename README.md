@@ -1,4 +1,3 @@
-# sapui5start
 # SAPUI5 The Comprehensive Guide
 
 ![SAPUI5 The Comprehensive Guide](https://s3-eu-west-1.amazonaws.com/cover2.galileo-press.de/print/9781493213207_267_2d.png)
